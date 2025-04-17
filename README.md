@@ -41,7 +41,7 @@ GROUP BY product;
 ## 📎 File
 - 📘 [SQL Script: SQLite_Database.sql](./SQLite%20Database%20.ipynb)— The notebook containing all the code and outputs
 
-| 📌 | ![Screenshot](./sales_chart.png) — The revenue chart image
+![Screenshot](./sales_chart.png)
 
 ## ✅ Outcome
 By completing this project, you:
