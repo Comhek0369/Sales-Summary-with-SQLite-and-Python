@@ -38,9 +38,18 @@ FROM sales
 GROUP BY product;
 ````
 
-## 📎 Files
-SQLite Database .ipynb — The notebook containing all the code and outputs
+## 📎 File
+- 📘 [SQL Script: SQLite_Database.sql](./SQLite%20Database%20.ipynb)— The notebook containing all the code and outputs
 
-sales_chart.png — The revenue chart image
+| 📌 | ![Screenshot](./sales_chart.png) — The revenue chart image
 
-README.md — This file
+## ✅ Outcome
+By completing this project, you:
+
+Learned how to run SQL queries inside Python
+
+Performed simple data aggregation
+
+Created your first product revenue visualization
+
+
