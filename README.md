@@ -36,6 +36,7 @@ SELECT
     SUM(quantity * price) AS revenue 
 FROM sales 
 GROUP BY product;
+````
 
 ## 📎 Files
 SQLite Database .ipynb — The notebook containing all the code and outputs
